@@ -1,0 +1,128 @@
+.menu {
+     background-color: #426c35;
+}
+
+.main {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+  
+
+.photo {
+    border-width: solid;
+    background-color: #f0edf0;
+    text-align: center;
+    margin: 2px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 6px;
+    border-width: 2px;
+    padding-bottom: 20px;
+
+}
+
+.footer {
+    background-color: #777;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+.menu ul {
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.menu li {
+         display: inline-block;
+         text-align: center;
+}
+
+.menu li a {
+       display: inline-block;
+       height: auto;
+       width: 150px;
+       color: #333;
+       background-color: #f5f5f5;
+       padding: 10px;
+       margin: 4px;
+       text-align: center;
+       font-weight: bold;
+       text-decoration: none;
+}
+
+.menu li a:hover {
+   background-color: #d6d599;
+}
+
+g
+.footer ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer li {
+         display: inline-block;
+         text-align: center;
+}
+
+.footer li a {
+       display: inline-block;
+       height: auto;
+       width: 150px;
+       color: #333;
+       background-color: #f5f5f5;
+       padding: 10px;
+       margin: 4px;
+       text-align: center;
+       font-weight: bold;
+       text-decoration: none;
+       font-size:  small;
+}
+
+.footer li a:hover {
+       background-color: #d6d599;
+}
+
+.main h1 {
+       font-size: large;
+       margin-top: 40px;
+       margin-left: auto;
+       margin-right: auto;
+       width: 200px;
+       padding: 10px;
+       background: #d6d599;
+       color: #426c35;
+       font-weight: bold;
+       text-align: center;
+       border-radius: 30px;
+       overflow: auto;
+}
+.main li {
+    text-align: right;
+    display: inline-block;
+       height: auto;
+       width: 150px;
+       color: #426c35;
+       background-color: #f5f5f5;
+       padding: 10px;
+       margin: 4px;
+       text-align: center;
+       font-weight: bold;
+       text-decoration: none;
+}
+
+.footer h1 {
+    
+           color: #d6d599;
+}
+.footer p {
+         color: #f5f5f5;
+}
